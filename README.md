@@ -1,12 +1,11 @@
-# Hi there! 👋
+Hi there! 👋
+I'm Pedro, a passionate programmer with a strong interest in Cloud Computing and DevOps. I'm always eager to learn and currently expanding my knowledge through hands-on courses in these fields.
 
-I'm **Pedro**, a passionate programmer with a deep interest in **Cloud Computing** and **DevOps**. I'm constantly learning and currently diving into various courses to enhance my skills in these areas.
+Staying up to date with the latest in cloud technologies
 
--  Exploring the latest trends in cloud technologies.
--  Always looking for new challenges to improve my DevOps practices.
--  Currently taking courses to stay ahead in the field.
+Continuously improving my DevOps skills through new challenges
 
-Feel free to explore my repositories and connect with me!
+Actively learning to stay ahead in a fast-evolving industry
 
-Let's build something great together! 🚀
-
+Feel free to check out my repositories and reach out
+I'm always open to collaborate and build something awesome! 🚀
